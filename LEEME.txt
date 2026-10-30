@@ -1,0 +1,18 @@
+MI UNED - tu app privada
+========================
+Tus datos se guardan SOLO en tu navegador, en este equipo. Nada se envia a ningun servidor.
+
+OPCION A - La mas simple (sin instalar nada)
+1. Descomprime la carpeta en un sitio fijo (p. ej. C:\MiUNED) y no la muevas despues.
+2. Doble clic en "Abrir Mi UNED.bat": se abre en su propia ventana, sin barra del navegador.
+   Usa siempre ese mismo acceso (puedes crearle un acceso directo en el escritorio).
+
+OPCION B - App instalable (PWA, con icono propio y uso sin conexion)
+1. Sube esta carpeta a un hosting gratuito (Netlify Drop, GitHub Pages...). Solo se aloja el codigo,
+   tus datos siguen en tu navegador.
+2. Abre la direccion en Edge o Chrome y pulsa el icono "Instalar" de la barra de direcciones.
+
+COPIAS DE SEGURIDAD (importante)
+Los datos viven en el navegador: si borras los datos del sitio o cambias de equipo, se pierden.
+En la pestana Copias, "Descargar copia completa" guarda un .json con todo, archivos incluidos.
+Para restaurar: pestana Copias > elegir el .json.
